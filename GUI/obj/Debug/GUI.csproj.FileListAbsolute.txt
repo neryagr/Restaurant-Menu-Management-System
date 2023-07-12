@@ -1,0 +1,166 @@
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\GUI.exe.config
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\GUI.exe
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\GUI.pdb
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BE.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BL.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\DAL.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BE.pdb
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BL.pdb
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\bin\Debug\DAL.pdb
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch_.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client_.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish_.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish_.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order_.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\update_bruanch.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Braunch.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Client.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order_Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Bruanch.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Client.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\General.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\MainWindow.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order_Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Braunch.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Client.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order_Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Client.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order_Dish.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\App.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch_.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client_.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish_.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish_.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order_.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\update_bruanch.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Braunch.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Client.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order_Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Bruanch.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Client.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\General.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order_Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Braunch.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Client.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order_Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Client.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order_Dish.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\App.g.cs
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch.baml
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.g.resources
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.exe
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\GUI.exe.config
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.exe
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\GUI.exe
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\GUI.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BE.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BL.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\DAL.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BE.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\BL.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\bin\Debug\DAL.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch_.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client_.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish_.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish_.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order_.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\update_bruanch.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Braunch.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Client.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order_Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Bruanch.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Client.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\General.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\MainWindow.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order_Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Braunch.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Client.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order_Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Client.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order_Dish.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\App.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch_.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_client_.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_dish_.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_ordered_dish_.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_order_.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\update_bruanch.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Braunch.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Client.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Add_Order_Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Bruanch.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Client.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\General.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\MainWindow.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Order_Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Braunch.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Client.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Remove_Order_Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Client.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\Update_Order_Dish.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\App.g.cs
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI_MarkupCompile.cache
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI_MarkupCompile.lref
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\show_braunch.baml
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.g.resources
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.Properties.Resources.resources
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
