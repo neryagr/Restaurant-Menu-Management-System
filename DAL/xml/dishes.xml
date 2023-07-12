@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDish xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dish>
+    <Name>fffff</Name>
+    <Size>large</Size>
+    <Price>45</Price>
+    <Kusher_level>shrimps</Kusher_level>
+  </Dish>
+  <Dish>
+    <Name>hj</Name>
+    <Size>small</Size>
+    <Price>15</Price>
+    <Kusher_level>badatz</Kusher_level>
+  </Dish>
+  <Dish>
+    <Name>pasta</Name>
+    <Size>medium</Size>
+    <Price>45</Price>
+    <Kusher_level>shrimps</Kusher_level>
+  </Dish>
+  <Dish>
+    <Name>ffgh</Name>
+    <Size>small</Size>
+    <Price>33</Price>
+    <Kusher_level>cosher</Kusher_level>
+  </Dish>
+  <Dish>
+    <Name>shnitzel</Name>
+    <Size>medium</Size>
+    <Price>888</Price>
+    <Kusher_level>shrimps</Kusher_level>
+  </Dish>
+  <Dish>
+    <Name>shtuhiiiimmm00</Name>
+    <Size>small</Size>
+    <Price>0</Price>
+    <Kusher_level>glat</Kusher_level>
+  </Dish>
+  <Dish>
+    <Name>fichs</Name>
+    <Size>medium</Size>
+    <Price>0.5</Price>
+    <Kusher_level>badatz</Kusher_level>
+  </Dish>
+</ArrayOfDish>

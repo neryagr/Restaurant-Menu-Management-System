@@ -1,0 +1,14 @@
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\DAL\bin\Debug\DAL.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\DAL\bin\Debug\DAL.pdb
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\DAL\bin\Debug\BE.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\DAL\bin\Debug\BE.pdb
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\DAL\obj\Debug\DAL.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\DAL\obj\Debug\DAL.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\DAL\bin\Debug\DAL.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\DAL\bin\Debug\DAL.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\DAL\bin\Debug\BE.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\DAL\bin\Debug\BE.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\DAL\obj\Debug\DAL.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\DAL\obj\Debug\DAL.pdb

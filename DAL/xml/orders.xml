@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Kusher_level>shrimps</Kusher_level>
+    <Date>2016-02-09T18:12:09.6809061+02:00</Date>
+    <Bruanch_number>4156429</Bruanch_number>
+    <Reservation_number>59754405</Reservation_number>
+    <Cl>123456</Cl>
+    <status>false</status>
+  </Order>
+  <Order>
+    <Kusher_level>shrimps</Kusher_level>
+    <Date>2016-02-09T18:12:24.4178816+02:00</Date>
+    <Bruanch_number>4156429</Bruanch_number>
+    <Reservation_number>93725175</Reservation_number>
+    <Cl>8510595</Cl>
+    <status>false</status>
+  </Order>
+  <Order>
+    <Kusher_level>shrimps</Kusher_level>
+    <Date>2016-02-09T18:12:31.0148816+02:00</Date>
+    <Bruanch_number>3442442</Bruanch_number>
+    <Reservation_number>18732377</Reservation_number>
+    <Cl>5338342</Cl>
+    <status>false</status>
+  </Order>
+</ArrayOfOrder>

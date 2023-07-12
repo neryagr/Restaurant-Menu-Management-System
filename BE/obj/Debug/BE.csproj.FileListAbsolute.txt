@@ -1,0 +1,10 @@
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\BE\bin\Debug\BE.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\BE\bin\Debug\BE.pdb
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\BE\obj\Debug\BE.dll
+C:\Users\Sara\Source\Workspaces\פרויקט חדש\dotNet5776_Project01_7469_3361\BE\obj\Debug\BE.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\BE\bin\Debug\BE.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\BE\bin\Debug\BE.pdb
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\BE\obj\Debug\BE.dll
+d:\Users\Sara\Downloads\לימודים\שנה ב\סמסטר א\חלונות\Projects\dotNet5776_Project01_7469_3361\BE\obj\Debug\BE.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrdered_Dish xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ordered_Dish>
+    <reservation_number>18732377</reservation_number>
+    <dish_name>hj</dish_name>
+    <Rn_Dn>18732377hj</Rn_Dn>
+    <number_of_dishes>8</number_of_dishes>
+  </Ordered_Dish>
+  <Ordered_Dish>
+    <reservation_number>59754405</reservation_number>
+    <dish_name>fffff</dish_name>
+    <Rn_Dn>59754405fffff</Rn_Dn>
+    <number_of_dishes>6</number_of_dishes>
+  </Ordered_Dish>
+  <Ordered_Dish>
+    <reservation_number>59754405</reservation_number>
+    <dish_name>pasta</dish_name>
+    <Rn_Dn>59754405pasta</Rn_Dn>
+    <number_of_dishes>6</number_of_dishes>
+  </Ordered_Dish>
+  <Ordered_Dish>
+    <reservation_number>59754405</reservation_number>
+    <dish_name>ffgh</dish_name>
+    <Rn_Dn>59754405ffgh</Rn_Dn>
+    <number_of_dishes>1</number_of_dishes>
+  </Ordered_Dish>
+</ArrayOfOrdered_Dish>
