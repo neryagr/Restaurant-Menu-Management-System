@@ -1,0 +1,44 @@
+﻿<Window x:Class="GUI.Update_Order"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Update_Order" Height="315.83" Width="256.818" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="149*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="49*"/>
+        </Grid.RowDefinitions>
+        <Button Content="חזרה לחלון הראשי" Grid.Row="2" Margin="0,0.2,-0.2,-0.2" Grid.Column="1" Click="main"    />
+        <Button Content="חזרה לחלון הזמנה"  Grid.Row="2"     Grid.Column="0" Click="order" />
+        <Button Content="הוספה" Grid.Row="1" Grid.ColumnSpan="2" Click="update"  />
+        <Grid x:Name="grid1"  HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="174" Width="250"  Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Bruanch number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+            <TextBox x:Name="bruanch_numberTextBox" IsEnabled="False" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="0" Text="{Binding Bruanch_number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Cl:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+            <ComboBox x:Name="clComboBox" IsEnabled="False" Grid.Column="1" HorizontalAlignment="Left" Height="Auto" SelectedItem="{Binding Cl}" Margin="3" Grid.Row="1" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <DatePicker x:Name="dateDatePicker" IsEnabled="False" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="2" SelectedDate="{Binding Date, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            <Label Content="Kusher level:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+            <ComboBox x:Name="kusher_levelComboBox" IsEnabled="False" Grid.Column="1" SelectedItem="{Binding Kusher_level}" HorizontalAlignment="Left" Height="Auto"  Margin="3" Grid.Row="3" VerticalAlignment="Center" Width="120" />
+            <Label Content="Reservation number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="4" VerticalAlignment="Center"/>
+            <TextBox x:Name="reservation_numberTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="4" Text="{Binding Reservation_number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+    </Grid>
+</Window>

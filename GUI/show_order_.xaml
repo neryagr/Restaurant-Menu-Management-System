@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="GUI.show_order_"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="173" Width="251">
+    <Grid x:Name="grid1"  HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="174" Width="250"  Grid.RowSpan="2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label Content="Bruanch number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+        <TextBox x:Name="bruanch_numberTextBox" Grid.Column="1" IsEnabled="False" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="0" Text="{Binding Bruanch_number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+        <Label Content="Cl:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+        <TextBox x:Name="clComboBox" Grid.Column="1" IsEnabled="False" HorizontalAlignment="Left" Height="Auto" Text="{Binding Cl, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Margin="3" Grid.Row="1" VerticalAlignment="Center" Width="120"/>
+        <Label Content="Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+        <DatePicker x:Name="dateDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="2" SelectedDate="{Binding Date, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+        <Label Content="Kusher level:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+        <TextBox x:Name="kusher_levelComboBox" Grid.Column="1" IsEnabled="False" Text="{Binding Kusher_level, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Height="Auto"  Margin="3" Grid.Row="3" VerticalAlignment="Center" Width="120" />
+        <Label Content="Reservation number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="4" VerticalAlignment="Center"/>
+        <TextBox x:Name="reservation_numberTextBox" Grid.Column="1" IsEnabled="False" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="4" Text="{Binding Reservation_number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+    </Grid>
+</UserControl>

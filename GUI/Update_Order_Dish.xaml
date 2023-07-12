@@ -1,0 +1,29 @@
+﻿<Window x:Class="GUI.Update_Order_Dish"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Update_Order_Dish" Height="236.37" Width="281.422" >
+    <Grid>
+
+        <Grid x:Name="grid1" VerticalAlignment="Top" HorizontalAlignment="Left" Height="100" Width="250" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="dish name:"/>
+            <TextBox x:Name="dish_nameTextBox" Width="120" VerticalAlignment="Center" Text="{Binding dish_name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="0" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="number of dishes:"/>
+            <TextBox x:Name="number_of_dishesTextBox" IsEnabled="False" Width="120" VerticalAlignment="Center" Text="{Binding number_of_dishes, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="1" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="reservation number:"/>
+            <TextBox x:Name="reservation_numberTextBox" Width="120" VerticalAlignment="Center" Text="{Binding reservation_number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="2" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+        </Grid>
+        <Button x:Name="button" Content="הוספה" HorizontalAlignment="Left" Margin="0,105,0,0" VerticalAlignment="Top" Width="273" Height="48" Click="add_click"/>
+        <Button x:Name="button1" Content="חזרה לחלון הראשי" Margin="133,153,-1,0" VerticalAlignment="Top" Height="53" Click="main_click"/>
+        <Button x:Name="button2" Content="חזרה לחלון הקודם" HorizontalAlignment="Left" Margin="0,153,0,0" VerticalAlignment="Top" Width="133" Height="53" Click="back_click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,40 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:BE="clr-namespace:BE;assembly=BE" mc:Ignorable="d" x:Class="GUI.Add_Dish"
+        Title="Add_Dish" Height="300" Width="237.6" >
+    <Grid GotKeyboardFocus="Grid_GotKeyboardFocus">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="149*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="49*"/>
+        </Grid.RowDefinitions>
+        <Button Content="חזרה לחלון הראשי" Grid.Row="2" Click="Button_Click" Margin="120,0.2,0.2,0.4"   />
+        <Button Content="חזרה לחלון מנה"  Grid.Row="2"     Grid.Column="0" Click="Button_Click_1" Margin="0,0.2,111.2,0.4" />
+        <Button Name="button" Content="הוספה" Grid.Row="1" Click="add_click" Margin="0,0.2,0.2,53.4" Grid.RowSpan="2" />
+        <Grid x:Name="grid1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="165" Grid.RowSpan="2" Width="207">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Kusher level:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+            <ComboBox x:Name="kusher_levelComboBox" Grid.Column="1" HorizontalAlignment="Left" Height="Auto" SelectedItem="{Binding Kusher_level}" Margin="3" Grid.Row="0" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+            <TextBox x:Name="nameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="1" Text="{Binding Name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Price:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <TextBox x:Name="priceTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="2" Text="{Binding Price, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Size:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+            <ComboBox x:Name="sizeComboBox" Grid.Column="1"  HorizontalAlignment="Left" Height="Auto" SelectedItem="{Binding Size}" Margin="3" Grid.Row="3" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+    </Grid>
+</Window>

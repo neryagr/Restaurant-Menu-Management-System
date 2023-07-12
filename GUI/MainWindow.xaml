@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:BE="clr-namespace:BE;assembly=BE" mc:Ignorable="d" 
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+        x:Class="GUI.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="braunchViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Braunch}, CreateList=True}"/>
+    </Window.Resources> 
+
+    <Grid DataContext="{StaticResource braunchViewSource}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="413*"/>
+            <ColumnDefinition Width="104*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>  
+        <Button  x:Name="f"  Content="סניף"  Click="Brunch_Click" />
+        <Button Content="לקוח" Grid.Row="1"  Click="Client_Click" />
+        <Button Content="מנה" Grid.Row="2"  Click="Dish_Click"/>
+        <Button Content="הזמנה" Grid.Row="3"  Click="Order_Click"/>
+        <Button Content="הזמנת מנה" Grid.Row="4"  Click="Order_Dish_click"/>
+        <Button Content="כללי" Grid.Row="5"  Click="General_Click" />
+        <Image Source="logo.jpg" Grid.Column="1" Height="350" Grid.RowSpan="5" RenderTransformOrigin="1.038,0.484" />
+    </Grid>
+</Window>
